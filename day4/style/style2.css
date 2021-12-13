@@ -1,0 +1,11 @@
+table,th,td{
+    background-color: darksalmon;
+    color: rgb(88, 3, 74);
+    border: chartreuse 1px double;
+    border-radius: 8px;
+    padding: 10px;
+    text-align: center;
+}
+body{
+    background-color: rgba(240, 234, 199, 0.479);
+}
