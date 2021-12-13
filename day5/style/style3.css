@@ -1,0 +1,23 @@
+body{
+    background: rgb(230, 225, 197);
+}
+.wrapper{
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+}
+.navbar{
+    background-color:goldenrod;
+}
+.navbar ul{
+    display: flex;
+    list-style-type: none;
+    justify-content: center;
+    padding: 10px;
+}
+.navbar ul li a{
+    text-decoration: none;
+    color: rgb(52, 2, 99);
+    display: block ;
+    padding: 10px;
+}
